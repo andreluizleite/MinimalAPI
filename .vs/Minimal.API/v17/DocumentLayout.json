@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Minimal.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|c:\\users\\andre\\source\\repos\\minimal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|c:\\users\\andre\\source\\repos\\minimal.api\\endpoints\\productsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|solutionrelative:endpoints\\productsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|c:\\users\\andre\\source\\repos\\minimal.api\\responses\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|solutionrelative:responses\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|c:\\users\\andre\\source\\repos\\minimal.api\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|solutionrelative:exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|c:\\users\\andre\\source\\repos\\minimal.api\\requests\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|solutionrelative:requests\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|c:\\users\\andre\\source\\repos\\minimal.api\\minimal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|solutionrelative:minimal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|c:\\users\\andre\\source\\repos\\minimal.api\\requests\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800955EE-7890-4F37-80DE-F156A686B19F}|Minimal.API.csproj|solutionrelative:requests\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\ProductNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:45:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Responses\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "Responses\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Responses\\ProductResponse.cs",
+              "RelativeToolTip": "Responses\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:27:30.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Minimal.API",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Minimal.API.csproj",
+              "RelativeDocumentMoniker": "Minimal.API.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Minimal.API.csproj",
+              "RelativeToolTip": "Minimal.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T12:27:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Requests\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\CreateProductRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Requests\\CreateProductRequest.cs",
+              "RelativeToolTip": "Requests\\CreateProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:17:57.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:30:59.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Minimal.API\\EndPoints\\ProductsEndpoint.cs",
+              "RelativeDocumentMoniker": "EndPoints\\ProductsEndpoint.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Minimal.API\\EndPoints\\ProductsEndpoint.cs",
+              "RelativeToolTip": "EndPoints\\ProductsEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:59:09.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Requests\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Minimal.API\\Requests\\UpdateProductRequest.cs",
+              "RelativeToolTip": "Requests\\UpdateProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:26:22.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
